@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+- 💬 Ask me about: Software test automation, AWS developer, Serverless.
+- 📫 How to reach me: Please reach out to me at https://avikashg.github.io/cv/
+- 😄 Pronouns: He/Him/His
 <!--
 **avikashg/avikashg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -9,8 +11,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about I am a Full-stack SDET & AWS Developer with 14+ yrs of versatile experience in design and development of web applications and test automation solutions. I am Master in Computer Applications and I ❤️ cooking.
-- 📫 How to reach me: Please reach out to me at https://avikashg.github.io/cv/
-- 😄 Pronouns: He/Him/His
+
 - ⚡ Fun fact: ...
 -->
