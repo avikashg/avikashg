@@ -2,11 +2,11 @@
 
  
 
-## I am Developer, Tester & Cloud practitioner (AWS & GCP) with 16+ yrs of versatile experience
+## I am Developer, Tester & Cloud practitioner (AWS & GCP) with 17+ yrs of versatile experience
 
 - 💬 Ask me about: Software Development, Test Automation, Cloud Development (AWS, GCP), Serverless.
 
-- 📫 How to reach me: Please reach out to me at https://avikashg.github.io/cv/ (building my own portfolio in React).
+- 📫 How to reach me: Please reach out to me at https://avikashg.github.io/cv/.
 
 - 🎯 Skills: Java, SpringBoot, Python, Test Automation, Cloud Native Development (#AWS & #GCP), #DevOps, #ReactJS, #Java, #SpringBoot
 
@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on Software Development and Testing.
 
-- 🌱 I’m currently enhancing my skills on Flutter and Flutterflow.
+- 🌱 I’m currently enhancing my skills on AI.
 
 <!--
 
