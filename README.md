@@ -2,7 +2,7 @@
 
  
 
-## I am Developer, Tester & Cloud practitioner (AWS & GCP) with 17+ yrs of versatile experience
+## I am Software Techiee with 17+ yrs of versatile experience
 
 - 💬 Ask me about: Software Development, Test Automation, Cloud Development (AWS, GCP), Serverless.
 
@@ -10,9 +10,9 @@
 
 - 🎯 Skills: Java, SpringBoot, Python, Test Automation, Cloud Native Development (#AWS & #GCP), #DevOps, #ReactJS, #Java, #SpringBoot
 
-- 🔭 I’m currently working Dev lean in an Engineering Factory team of a reputed Bank.
+- 🔭 I’m currently working Dev lead in the Digital Factory team of the reputed Bank.
 
-- 👯 I’m looking to collaborate on Software Development and Testing.
+- 👯 I’m looking to collaborate on building Softwares.
 
 - 🌱 I’m currently enhancing my skills on AI.
 
